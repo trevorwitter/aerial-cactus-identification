@@ -16,4 +16,4 @@ Example images for classification:
 
 ![No Cacti](/images/002134abf28af54575c18741b89dd2a4.jpg)
 
-
+For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. 
