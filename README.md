@@ -9,9 +9,11 @@ Objective of the problem is to identify whether aerial images contain columnar c
 Example images for classification:
 
 - Cacti: 
+
 ![Cacti](/images/0004be2cfeaba1c0361d39e2b000257b.jpg)
 
 - No Cacti: 
+
 ![No Cacti](/images/002134abf28af54575c18741b89dd2a4.jpg)
 
 
