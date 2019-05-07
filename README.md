@@ -9,6 +9,7 @@ Original dataset found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial
 
 Objective of the problem is to identify whether aerial images contain columnar cacti. 
 
+![Cacti in image](/images/logo.png)
 
 
 
