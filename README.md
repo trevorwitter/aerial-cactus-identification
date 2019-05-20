@@ -16,11 +16,14 @@ Example images for classification:
 
 <a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" ></a>
 
+#### Transfer Learning
+For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. I did not retrain these layer given the similarity of cacti to other objects in the imagenet dataset. 
 
-For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. 
-
-Model Parameters:
+#### Model Parameters:
 <a href="model params"><img src="/images/model_params.png" align="center" width="800" ></a>
 
+
+
+#### Score
 After 200 training epochs, the model settled at a validation loss of ~0.10 and a validation accuracy of ~0.96
 <a href="Loss + Accuracy"><img src="/images/acc.png" align="left" width="700" ></a>
