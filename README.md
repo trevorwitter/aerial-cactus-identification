@@ -19,6 +19,5 @@ Example images for classification:
 
 For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. 
 
-![Loss + Accuracy](/images/acc.png | width=50)
 
-<a href="Loss + Accuracy"><img src="/images/acc.png" align="center" height="50" ></a>
+<a href="Loss + Accuracy"><img src="/images/acc.png" align="center" width="100" ></a>
