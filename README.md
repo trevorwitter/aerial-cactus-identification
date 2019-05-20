@@ -1,12 +1,9 @@
 # Aerial Cactus Identification
 
-Model built for [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/data)
+The objective of this project is to identify whether aerial images contain columnar cacti. Model built for [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/data). This competition is based on resesearch previously hosted on kaggle; original dataset found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial-photos) 
 
-This competition is based on resesearch previously hosted on kaggle; original dataset found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial-photos) 
 
-Objective of the problem is to identify whether aerial images contain columnar cacti. 
-
-## Example images for classification:
+## Sample images for classification:
 
 #### Cacti: 
 
@@ -16,12 +13,13 @@ Objective of the problem is to identify whether aerial images contain columnar c
 
 <p align="center"><a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/003bb64852016d9c87871ddd8e25ab03.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/0283336bcc959eb5cdf69b144903a428.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/04bbf5cd66492db2a14bbd28d1e06d49.jpg" align="center" height="100" hspace="5"></a></p>
 
+
 ## Transfer Learning
 For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. I did not retrain these layer given the similarity of cacti to other objects in the imagenet dataset. 
 
+
 ## Model Parameters:
 <p align="center"><a href="model params"><img src="/images/model_params.png" align="center" width="600" ></a></p>
-
 
 
 ## Score
