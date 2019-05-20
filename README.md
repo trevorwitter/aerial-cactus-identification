@@ -2,7 +2,7 @@
 
 Model built for [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/data)
 
-This competition is based on resesearhc previously hosted on kaggle; original dataset found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial-photos) 
+This competition is based on resesearch previously hosted on kaggle; original dataset found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial-photos) 
 
 Objective of the problem is to identify whether aerial images contain columnar cacti. 
 
