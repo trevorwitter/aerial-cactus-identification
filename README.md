@@ -20,4 +20,4 @@ Example images for classification:
 For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. 
 
 
-<a href="Loss + Accuracy"><img src="/images/acc.png" align="center" width="1000" ></a>
+<a href="Loss + Accuracy"><img src="/images/acc.png" align="left" width="700" ></a>
