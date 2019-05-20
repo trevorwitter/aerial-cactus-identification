@@ -10,7 +10,7 @@ Example images for classification:
 
 - Cacti: 
 
-<a href="Cacti"><img src="/images/0004be2cfeaba1c0361d39e2b000257b.jpg" align="left" height="48" width="48" ></a>
+<a href="Cacti"><img src="/images/0004be2cfeaba1c0361d39e2b000257b.jpg" align="left" height="200" ></a>
 
 ![Cacti](/images/0004be2cfeaba1c0361d39e2b000257b.jpg | width=300)
 
