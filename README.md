@@ -28,4 +28,5 @@ For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/
 After 200 training epochs, the model settled at a validation loss of ~0.10 and a validation accuracy of ~0.96
 <p align="center"><a href="Loss + Accuracy"><img src="/images/acc.png" align="center" width="600" ></a></p>
 
+## Submission Score
 Submission with this model scores an area under the ROC curve of 0.9929 on the test dataset. 
