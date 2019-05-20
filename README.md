@@ -1,4 +1,3 @@
-https://storage.googleapis.com/kaggle-competitions/kaggle/13435/logos/header.png?t=2019-03-07-17-24-10
 <a href="header"><img src="https://storage.googleapis.com/kaggle-competitions/kaggle/13435/logos/header.png?t=2019-03-07-17-24-10" align="center" height="100" ></a>
 
 # Aerial Cactus Identification
