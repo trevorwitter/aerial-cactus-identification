@@ -1,5 +1,3 @@
-<a href="header"><img src="https://storage.googleapis.com/kaggle-competitions/kaggle/13435/logos/header.png?t=2019-03-07-17-24-10" align="center" height="100" ></a>
-
 # Aerial Cactus Identification
 
 Model built for [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/data)
@@ -12,7 +10,9 @@ Example images for classification:
 
 - Cacti: 
 
-<a href="Cacti"><img src="/images/0004be2cfeaba1c0361d39e2b000257b.jpg" align="center" height="100" ></a><br></br><a href="Cacti"><img src="/images/0017c3c18ddd57a2ea6f9848c79d83d2.jpg" align="center" height="100" ></a>
+<a href="Cacti"><img src="/images/0004be2cfeaba1c0361d39e2b000257b.jpg" align="center" height="100" hspace="20"></a><a href="Cacti"><img src="/images/0017c3c18ddd57a2ea6f9848c79d83d2.jpg" align="center" height="100" hspace="20"></a>
+<a href="Cacti"><img src="/images/003ec9bcef67171ba49fe4c3b7c80aec.jpg" align="center" height="100" hspace="20"></a>
+
 
 - No Cacti: 
 
