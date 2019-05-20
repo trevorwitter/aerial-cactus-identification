@@ -28,26 +28,6 @@ train_datagen = ImageDataGenerator(rescale=1./255,
                                    horizontal_flip=True,
                                    zoom_range=0.2,
                                    fill_mode='nearest')
-
-train_generator = train_datagen.flow_from_dataframe(dataframe=train_df,
-                                                    directory="../input/train/train",
-                                                    x_col="id",
-                                                    y_col="has_cactus",
-                                                    batch_size=32,
-                                                    shuffle=True,
-                                                    class_mode="binary",
-                                                    target_size=(32,32),
-                                                    subset="training")
-
-validation_generator = train_datagen.flow_from_dataframe(dataframe=train_df,
-                                                         directory="../input/train/train",
-                                                         x_col="id",
-                                                         y_col="has_cactus",
-                                                         batch_size=32,
-                                                         shuffle=True,
-                                                         class_mode="binary",
-                                                         target_size=(32,32),
-                                                         subset="validation")
 ```
 
 ## Transfer Learning - VGG16 Base Layers
