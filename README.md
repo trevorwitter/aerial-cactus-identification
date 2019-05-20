@@ -15,7 +15,7 @@ Objective of the problem is to identify whether aerial images contain columnar c
 
 #### No Cacti: 
 
-<p align="center"><a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/003bb64852016d9c87871ddd8e25ab03.jpg" align="center" height="100" ></a><a href="No Cacti"><img src="/images/0283336bcc959eb5cdf69b144903a428.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/04bbf5cd66492db2a14bbd28d1e06d49.jpg" align="center" height="100" hspace="5"></a></p>
+<p align="center"><a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/003bb64852016d9c87871ddd8e25ab03.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/0283336bcc959eb5cdf69b144903a428.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/04bbf5cd66492db2a14bbd28d1e06d49.jpg" align="center" height="100" hspace="5"></a></p>
 
 ## Transfer Learning
 For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. I did not retrain these layer given the similarity of cacti to other objects in the imagenet dataset. 
