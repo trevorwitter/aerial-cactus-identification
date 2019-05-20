@@ -12,6 +12,8 @@ Example images for classification:
 
 <a href="Cacti"><img src="/images/0004be2cfeaba1c0361d39e2b000257b.jpg" align="center" height="100" ></a>
 
+<a href="Cacti"><img src="/images/0017c3c18ddd57a2ea6f9848c79d83d2.jpg" align="center" height="100" ></a>
+
 - No Cacti: 
 
 <a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" ></a>
