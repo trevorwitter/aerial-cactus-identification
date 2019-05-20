@@ -10,12 +10,12 @@ Example images for classification:
 
 - Cacti: 
 
-![Cacti](/images/0004be2cfeaba1c0361d39e2b000257b.jpg)
+![Cacti](/images/0004be2cfeaba1c0361d39e2b000257b.jpg=300x)
 
 - No Cacti: 
 
-![No Cacti](/images/002134abf28af54575c18741b89dd2a4.jpg)
+![No Cacti](/images/002134abf28af54575c18741b89dd2a4.jpg=33x)
 
 For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. 
 
-![Loss + Accuracy](/images/acc.png)
+![Loss + Accuracy](/images/acc.png=50x)
