@@ -15,8 +15,7 @@ Example images for classification:
 
 - No Cacti: 
 
-<a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/003bb64852016d9c87871ddd8e25ab03.jpg" align="center" height="100" ></a>
-
+<p align="center"><a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/003bb64852016d9c87871ddd8e25ab03.jpg" align="center" height="100" ></a><a href="No Cacti"><img src="/images/0283336bcc959eb5cdf69b144903a428.jpg" align="center" height="100" hspace="5"></a></p>
 
 
 #### Transfer Learning
