@@ -13,10 +13,11 @@ Example images for classification:
 <p align="center"><a href="Cacti"><img src="/images/0004be2cfeaba1c0361d39e2b000257b.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/0017c3c18ddd57a2ea6f9848c79d83d2.jpg" align="center" height="100"></a>
 <a href="Cacti"><img src="/images/003ec9bcef67171ba49fe4c3b7c80aec.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/003ec9bcef67171ba49fe4c3b7c80aec.jpg" align="center" height="100"></a></p>
 
-005aa32619d179665ecad3b227f8b537.jpg
 - No Cacti: 
 
-<a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" ></a>
+<a href="No Cacti"><img src="/images/002134abf28af54575c18741b89dd2a4.jpg" align="center" height="100" hspace="5"></a><a href="No Cacti"><img src="/images/003bb64852016d9c87871ddd8e25ab03.jpg" align="center" height="100" ></a>
+
+
 
 #### Transfer Learning
 For an initial attempt, I explored using a frozen [VGG16](https://arxiv.org/abs/1409.1556) base model pretrained on the [ImageNet](http://www.image-net.org) dataset. I did not retrain these layer given the similarity of cacti to other objects in the imagenet dataset. 
